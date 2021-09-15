@@ -1,4 +1,4 @@
-token: "b4jeoZLblrYYxQMX"    # Lichess OAuth2 Token.
+token: lip_YcNbAenElixy8oIGyZL6"    # Lichess OAuth2 Token.
 url: "https://lichess.org/"  # Lichess base URL.
 
 engine:                      # Engine settings.
@@ -87,5 +87,5 @@ challenge:                   # Incoming challenges.
     - casual                 # Unrated games.
     - rated                  # Rated games - must comment if the engine doesn't try to win.
   greeting:
-    - Hello. Thanks for Challenging me :) # Message to send to chat at the start of a game
-    - Good Game. That was nice :) # Message to send to chat at the end of a game
+    - Hello. Thanks for Challenging me Owner https://lichess.org/@/VenujaTBS :) # Message to send to chat at the start of a game
+    - Good Game. I'm https://lichess.org/@/Major_Max_Bot :) # Message to send to chat at the end of a game
